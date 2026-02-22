@@ -1,0 +1,7 @@
+{
+  "name": "Remix: نبض ",
+  "description": "تطبيق لعرض أسعار الذهب، العملات، ومواقيت الصلاة في مصر باستخدام الذكاء الاصطناعي",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
